@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\obj\Debug\WeatherConsole.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\bin\Debug\WeatherConsole.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\bin\Debug\WeatherConsole.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\bin\Debug\WeatherConsole.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\obj\Debug\WeatherConsole.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\WeatherConsole\WeatherConsole\obj\Debug\MovieConsole.csprojResolveAssemblyReference.cache
